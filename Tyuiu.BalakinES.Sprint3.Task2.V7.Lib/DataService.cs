@@ -6,7 +6,7 @@ namespace Tyuiu.BalakinES.Sprint3.Task2.V7.Lib
     {
         public double GetSumSeries(int startValue, int stopValue)
         {
-            double sumSeries = 1;
+            double sumSeries = 0;
             do
             {
                 sumSeries = sumSeries + (Math.Pow((1 / Math.Sin(startValue)), 2));
