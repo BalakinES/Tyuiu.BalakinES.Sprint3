@@ -11,7 +11,7 @@ class Program
         Console.WriteLine("* Спринт 3                                                                *");
         Console.WriteLine("* Тема: Обработка целочисленной информации                                *");
         Console.WriteLine("* Задание #6                                                              *");
-        Console.WriteLine("* Вариант #30                                                              *");
+        Console.WriteLine("* Вариант #30                                                             *");
         Console.WriteLine("* Выполнил: Балакин Егор Сергеевич | ИБКСб-26-1                           *");
         Console.WriteLine("***************************************************************************");
         Console.WriteLine("* УСЛОВИЕ:                                                                *");
