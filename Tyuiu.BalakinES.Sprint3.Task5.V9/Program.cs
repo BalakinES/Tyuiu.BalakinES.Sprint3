@@ -11,7 +11,7 @@ class Program
         Console.WriteLine("* Спринт 3                                                                *");
         Console.WriteLine("* Тема: Вложенные циклы                                                   *");
         Console.WriteLine("* Задание #5                                                              *");
-        Console.WriteLine("* Вариант #9                                                             *");
+        Console.WriteLine("* Вариант #9                                                              *");
         Console.WriteLine("* Выполнил: Балакин Егор Сергеевич | ИБКСб-26-1                           *");
         Console.WriteLine("***************************************************************************");
         Console.WriteLine("* УСЛОВИЕ:                                                                *");
